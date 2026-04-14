@@ -1,4 +1,4 @@
-# DMDL
+# DMDL: Dual-level Modality Debiasing Learning for Unsupervised Visible-Infrared Person Re-Identification
 
 Official implementation of the paper ["Dual-level Modality Debiasing Learning for Unsupervised Visible-Infrared Person Re-Identification"](https://arxiv.org/abs/2512.03745).
 
